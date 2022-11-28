@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>My Blog</title>
   
-  
+  <subtitle>班级：2021211321  姓名：孙喆  学号：2021212536</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
